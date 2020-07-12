@@ -23,9 +23,9 @@
   
 This repository contains tree different examples<br/>
 
-**basic example:**  using this example you can change the SSID and Password of the WiFi <br/>
-**MQTT example:**  using this example you can change the SSID and Password and the MQTT broker url, username and password<br/>
-**Virtuino example:**  using this example you can change the SSID and Password and the Virtuino Server IP and gateway<br/>
+**basic example:**  using this example you can change the **SSID** and **Password** of the WiFi <br/>
+**MQTT example:**  using this example you can change the **SSID** and **Password** and the **MQTT broker url, username and password**<br/>
+**Virtuino example:**  using this example you can change the **SSID** and **Password** and the Virtuino Server **IP** and **gateway**<br/>
 
 
 The code is created by Ilias Lamprou<br/>

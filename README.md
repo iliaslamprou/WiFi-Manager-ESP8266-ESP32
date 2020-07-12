@@ -8,8 +8,7 @@
  
  All the code is included in one sketch - no libraries needed<br/><br/>
 
- ![wifi_namager_ip_gateway](https://user-images.githubusercontent.com/24625307/87241852-b1941380-c42f-11ea-8d12-6dcf9a9cc6db.png)
- 
+ ![wifi_namager_ip_gw](https://user-images.githubusercontent.com/24625307/87254439-542db000-c48b-11ea-9aec-0514be0f9281.png) 
  
  ## How it works:<br/><br/>
  
